@@ -5,14 +5,6 @@ Start Date: Wednesday, July 22, 2020
 Email: honghangsia@gmail.com
 Github: hangsiaongithub
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Overview:
-	This mission will might take 2-3 years long in order to learn all about all of this specfic topics. In order to effienctly learn, Learners should try to invest 3-4 hours every single day. I will provide enough information and learning resources. Also in order to make it more likely to be real. I an Hangsia and i will be the one who do it and prove it that we can learn all this kind of stuff using new technologies we have right now. By the way, This course is for common people or maybe people that interested in learning about Computer Science since we can use what we have learned during this two year and implies it to Computer Science Course.
-	At the same time, i hope this will help Cambodian people to learn in a fastest way and they don't really need to go to college in order to learn all this kinds of stuff. After you finished study what i have in this repository. You might want to continue to Computer Science Course which is based on Open Source and you can learn this by yourself with the study material that i will provide to you.
-	Finally, I wish you all the best of luck...
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
 Report:
 =>(Mathematics)
 	Learning Resource:(https://www.youtube.com/watch?v=grnP3mduZkM)
